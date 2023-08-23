@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/charliechen114514/LocalGitProject/CodesExperiments/tcp_ip-easy/server1_start/server1",
-      "program": "/home/charliechen114514/LocalGitProject/CodesExperiments/tcp_ip-easy/server1_start/server1/build/Debug/outDebug",
+      "cwd": "/home/charliechen114514/LocalGitProject/CodesExperiments/tcp_ip-easy/server3",
+      "program": "/home/charliechen114514/LocalGitProject/CodesExperiments/tcp_ip-easy/server3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -57,9 +57,8 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "files.associations": {
     "sc.h": "c",
-    "string.h": "c",
-    "socket.h": "c",
     "stdio.h": "c",
-    "stdlib.h": "c"
+    "stdlib.h": "c",
+    "in.h": "c"
   }
 }
